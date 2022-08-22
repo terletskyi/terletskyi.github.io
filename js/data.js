@@ -4,9 +4,8 @@ var data = {
 	],
 	verb: [
 		'set up of',
-		'adding a',
+		'added',
 		'participating on',
-		'operation with',
 		'implementation of',
 		'optimization of',
 		'working on',
@@ -17,6 +16,12 @@ var data = {
 		'programming of'
 	],
 	noun: [
+		'frontend',
+		'mixins',
+		'animation',
+		'build',
+		'resource',
+		'images',
 		'check-box',
 		'diagram',
 		'library',
@@ -36,7 +41,7 @@ var data = {
 		'pdf',
 		'product',
 		'web site',
-		'javascript',
+		'js',
 		'php script',
 		'base class',
 		'abstract class',
@@ -49,9 +54,10 @@ var data = {
 	adjective: [
 		'active',
 		'actual',
-		'easy to use',
+		'lightweight',
+		'easy',
 		'supportable',
-		'next',
+		'next gen',
 		'improved',
 		'comprehensive',
 		'reliable'
@@ -64,6 +70,7 @@ var data = {
 	conjunction: [
 		',',
 		'.',
-		'also'
+		'also',
+		'and'
 	]
 };
